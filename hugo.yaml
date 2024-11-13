@@ -1,4 +1,4 @@
-aseURL: "https://neurodatawithoutborders.github.io/nwb-website/"
+baseURL: "https://neurodatawithoutborders.github.io/nwb-website/"
 languageCode: "en"
 title: "Neurodata Without Borders"
 paginate: 6
@@ -13,5 +13,6 @@ module:
     - source: "assets"
       target: "assets"
     - source: "static"
-      target: ""  # Mount static directly to root
+      target: "static"
 relativeURLs: true
+uglyURLs: false

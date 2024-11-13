@@ -15,8 +15,6 @@ module:
   mounts:
     - source: "assets"
       target: "assets"
-    - source: "static"
-      target: "/"
 
 params: 
   socials:

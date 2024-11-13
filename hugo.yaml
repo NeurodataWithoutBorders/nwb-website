@@ -19,3 +19,5 @@ module:
 params: 
   socials:
     twitter: https://twitter.com/NeurodataWB
+
+canonifyURLs = true

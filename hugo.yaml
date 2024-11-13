@@ -1,7 +1,6 @@
 baseURL: "https://neurodatawithoutborders.github.io/nwb-website/"
 languageCode: "en"
 title: "Neurodata Without Borders"
-canonifyURLs: true
 
 paginate: 6
 

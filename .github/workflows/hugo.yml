@@ -46,10 +46,10 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-          with:
-            static_site_generator: hugo
-            generator_config_file: "hugo.toml"
-            base_path: "/nwb-website"
+        with:
+          static_site_generator: hugo
+          generator_config_file: "hugo.toml"
+          base_path: "/nwb-website"
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo

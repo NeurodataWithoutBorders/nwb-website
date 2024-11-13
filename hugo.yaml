@@ -1,6 +1,6 @@
 baseURL: https://neurodatawithoutborders.github.io/nwb-website/
-languageCode: "en"
-title: "Neurodata Without Borders"
+languageCode: en
+title: Neurodata Without Borders
 paginate: 6
 # Markup 
 markup:
@@ -10,7 +10,7 @@ markup:
 # Modules
 module:
   mounts:
-    - source: "assets"
-      target: "assets"
-    - source: "static"
-      target: "static"
+    - source: assets
+      target: assets
+    - source: static
+      target: ""  # Changed from "static" to "" to mount to root

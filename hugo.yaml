@@ -13,4 +13,5 @@ module:
     - source: assets
       target: assets
     - source: static
-      target: "/"  # Changed from "static" to "" to mount to root
+      target: static
+canonifyURLs: true

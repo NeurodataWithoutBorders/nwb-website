@@ -15,4 +15,5 @@ module:
     - source: "static"
       target: "static"
 relativeURLs: true
-uglyURLs: false
+baseURLAsRoot: true
+canonifyURLs: true

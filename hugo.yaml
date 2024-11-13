@@ -2,11 +2,13 @@ baseURL: "https://neurodatawithoutborders.github.io/nwb-website/"
 languageCode: "en"
 title: "Neurodata Without Borders"
 paginate: 6
+
 # Markup 
 markup:
   goldmark:
     renderer:
       unsafe: true
+
 # Modules
 module:
   mounts:
@@ -14,8 +16,4 @@ module:
       target: "assets"
     - source: "static"
       target: "static"
-    - source: "static"
-      target: ""
-params: 
-  socials:
-    twitter: https://twitter.com/NeurodataWB
+publishDir: "public"

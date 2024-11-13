@@ -16,7 +16,7 @@ module:
     - source: "assets"
       target: "assets"
     - source: "static"
-      target: "static"
+      target: "/"
 
 params: 
   socials:

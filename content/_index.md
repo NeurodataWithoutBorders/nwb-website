@@ -6,15 +6,7 @@ hero_section:
     - title: Neurodata Without Borders
       subtitle: Version 2.0 FINAL Now Available
       btn_text: Read More
-      btn_link: /
-    - title: Neurodata Without Borders
-      subtitle: Version 2.0 FINAL Now Available
-      btn_text: Read More
-      btn_link: /
-    - title: Neurodata Without Borders
-      subtitle: Version 2.0 FINAL Now Available
-      btn_text: Read More
-      btn_link: /
+      btn_link: "https://github.com/NeurodataWithoutBorders/nwb-schema"
 banner_section:
   enable: true
   title: Making databases about the brain more usable and accessible for
@@ -57,12 +49,12 @@ portfolio_section:
 news_section:
   enable: true
   btn_text: See All New
-  btn_link: /
+  btn_link: "/nwb-website/news/"
 sponsers_section:
   enable: true
   logos:
     - image: /images/sponser-1.png
-      link: /
+      link: "https://alleninstitute.org/"
     - image: /images/sponser-2.png
       link: /
     - image: /images/sponser-3.png

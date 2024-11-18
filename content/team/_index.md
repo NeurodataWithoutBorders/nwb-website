@@ -40,7 +40,7 @@ current_team_section:
       name: Satrajit Ghost
     - image: /images/Adam.png
       name: Adam Kepecs
-    - image: /images/mala.png
+    - image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSL6eKXnOefpwg9BUB1OfL4mHHx9Vbii1pUhuBb61RiyEtY3zM7"
       name: Mala Murthy
     - image: /images/kris.png
       name: Kris Bouchard
@@ -50,27 +50,7 @@ alumni_section:
     - image: /images/floyd.png
       name: Floyd Miles
       date: (April 2020 – May 2021, Co-PI 1R24MH116922-01)
-    - image: /images/courtney.png
-      name: Courtney Henry
-      date: (April 2020 – May 2021, Co-PI 1R24MH116922-01)
-    - image: /images/annette.png
-      name: Annette Black
-      date: (April 2020 – May 2021, Co-PI 1R24MH116922-01)
-    - image: /images/kathryn.png
-      name: Kathryn Murphy
-      date: (April 2020 – May 2021, Co-PI 1R24MH116922-01)
-    - image: /images/darrell.png
-      name: Darrell Steward
-      date: (April 2020 – May 2021, Co-PI 1R24MH116922-01)
-    - image: /images/jerome.png
-      name: Jerome Bell
-      date: (April 2020 – May 2021, Co-PI 1R24MH116922-01)
-    - image: /images/esther.png
-      name: Esther Howard
-      date: (April 2020 – May 2021, Co-PI 1R24MH116922-01)
-    - image: /images/savannah.png
-      name: Savannah Nguyen
-      date: (April 2020 – May 2021, Co-PI 1R24MH116922-01)
+
 technical_board:
   enable: true
   title: The Technical Advisory Board
